@@ -428,7 +428,7 @@ export default function PrivacyPolicy() {
             supplements the rest of this policy.
           </p>
           <p className="text-[14px] text-[#666] pb-[10px] leading-[24px] font-[500]">
-            <strong>We do not sell or share your personal information.</strong> {siteConfig.name}
+            <strong>We do not sell or share your personal information.</strong> {siteConfig.name}{' '}
             does not sell personal information, and does not share it for cross-context behavioral
             advertising, as those terms are defined by California law — and has not done so in the
             preceding 12 months. We do not knowingly collect or sell the personal information of
